@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Book_Reading_App_with_React/static/css/main.adc51170.css",
+    "main.js": "/Book_Reading_App_with_React/static/js/main.a983305f.js",
+    "index.html": "/Book_Reading_App_with_React/index.html",
+    "main.adc51170.css.map": "/Book_Reading_App_with_React/static/css/main.adc51170.css.map",
+    "main.a983305f.js.map": "/Book_Reading_App_with_React/static/js/main.a983305f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adc51170.css",
+    "static/js/main.a983305f.js"
+  ]
+}
